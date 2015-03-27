@@ -1,0 +1,8 @@
+sp_par.c: In function ‘asp_par’:
+asp_par.c:245: error: too few arguments to function ‘broadcast’
+asp_par.c: In function ‘main’:
+asp_par.c:523: warning: passing argument 4 of ‘distribute_rows’ from incompatible pointer type
+asp_par.c:391: note: expected ‘int **’ but argument is of type ‘int *’
+asp_par.c:523: error: too few arguments to function ‘distribute_rows’
+asp_par.c:526: warning: passing argument 2 of ‘receive_rows’ makes pointer from integer without a cast
+asp_par.c:333: note: expected ‘int *’ but argument is of type ‘int’
